@@ -1,5 +1,5 @@
 # Scraping dataset actualizado de los resultados de futbol 
-Web scraping para obtener y actualizar los resultados históricos de lo partidos de fútbol español de primera y segunda división
+Web scraping para obtener y actualizar los resultados históricos de lo partidos de fútbol español de primera y segunda división.
 
 El código original esta publicado [aquí](https://github.com/RicardoMoya/FootballMatchesDataSet) usando bdfutbol para los partidos de hasta hasta 2018. Por diversos problemas con la descarga en esta página, modifiqué el código para la actualización de las temporadas fueran descagadas en resultados-futbol.
 
